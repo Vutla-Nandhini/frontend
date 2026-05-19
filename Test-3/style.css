@@ -1,0 +1,21 @@
+ body {
+      font-family: Arial, sans-serif;
+    }
+
+    .h-section img {
+      height: 90vh;
+      object-fit: cover;
+    }
+
+    .service-card:hover {
+      transform: translateY(-5px);
+      transition: 0.3s;
+    }
+
+    .stats-section {
+      background-color: #0d6efd;
+      color: white;
+    }
+    .navbarNav{
+        margin-left: 20px;
+    }
